@@ -1,0 +1,5 @@
+
+class DispMethod {
+public:
+	DispMethod();
+};
